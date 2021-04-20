@@ -1,0 +1,6 @@
+C:\Users\43303\source\reposSH\ProjetoModeloDDD\3 - Domain\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\43303\source\reposSH\ProjetoModeloDDD\3 - Domain\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\43303\source\reposSH\ProjetoModeloDDD\3 - Domain\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojAssemblyReference.cache
+C:\Users\43303\source\reposSH\ProjetoModeloDDD\3 - Domain\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\43303\source\reposSH\ProjetoModeloDDD\3 - Domain\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\43303\source\reposSH\ProjetoModeloDDD\3 - Domain\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
