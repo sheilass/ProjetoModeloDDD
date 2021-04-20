@@ -1,6 +1,7 @@
 ﻿
 
 using System;
+using System.Collections.Generic;
 
 namespace ProjetoModeloDDD.Domain.Entities
 {
@@ -18,6 +19,8 @@ namespace ProjetoModeloDDD.Domain.Entities
         public DateTime DataCadastro { get; set; }
 
         public bool Ativo { get; set; }
+
+        public virtual IEnumerable<Produto> Produtos { get; set; }
 
         //regra de negócio: valida cliente especial
         public bool ClienteEspecial (Cliente cliente)

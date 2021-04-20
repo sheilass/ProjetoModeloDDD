@@ -20,6 +20,7 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
 
         //tabela a ser criada
         public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -47,6 +48,7 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
 
             //o contexto vai entender que ele deve obedecer o que está definido na classe
             modelBuilder.Configurations.Add(new ClienteConfiguration());
+            modelBuilder.Configurations.Add(new ProdutoConfiguration());
         }
 
 
